@@ -1,0 +1,9 @@
+Notebook,1.99,100
+BallPen,0.49,20
+Pencil,0.29,150
+Marker,0.99,80
+Eraser,0.25,120
+Stapler,3.49,20
+Staple,0.99,150
+Scissor,2.99,40
+Folder,0.69,110
